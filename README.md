@@ -2,7 +2,7 @@
 
 ## Linear Reagression
 
-[icloud](https://www.icloud.com/iclouddrive/0NseDot-ioBJeIWx_2u3XGzKA#youtube)
+[icloud](https://www.dropbox.com/s/a85cfu6xfogjvot/CV%20_Yousuf_.pdf?dl=0)
 
 *****
 
