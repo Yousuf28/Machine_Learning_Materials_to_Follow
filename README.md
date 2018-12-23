@@ -78,6 +78,13 @@
 
 ## K Means Clustering
 
+[youtube_link](https://www.youtube.com/watch?v=_aWzGGNrcic)
+
+[StatQuest_youtube_link](https://www.youtube.com/watch?v=4b5d3muPQmA)
+
+[By_hand_calculation](https://www.saedsayad.com/clustering_kmeans.htm)
+
+[algorithm_from_scratch](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise7.ipynb)
 ****
 
 ## PCA
