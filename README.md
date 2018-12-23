@@ -1,9 +1,11 @@
 # Machine_Learning_Materials
 - Data Science From Scratch book's code
+
 [Data Science From Scratch](https://github.com/joelgrus/data-science-from-scratch)
 
 
 - machine learning algorithms tutorials (mainly in Python3)
+
 [Machine_Learning](https://github.com/ethen8181/machine-learning#clustering)
 
 - Andrew Ng's "Machine Learning" class on Coursera in python and other courses
@@ -24,6 +26,7 @@
 [machine-learning-specialization](https://github.com/learnml/machine-learning-specialization)
 
 -  python-machine-learning-book
+
 [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
 
 - Learn Data Science
