@@ -84,6 +84,8 @@
 
 [By_hand_calculation](https://www.saedsayad.com/clustering_kmeans.htm)
 
+[Interactive_visulization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+
 [algorithm_from_scratch](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise7.ipynb)
 ****
 
