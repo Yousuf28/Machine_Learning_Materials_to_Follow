@@ -87,8 +87,20 @@
 [Interactive_visulization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 
 [algorithm_from_scratch](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise7.ipynb)
+
+[step_by_step_algorithm_python](http://benalexkeen.com/k-means-clustering-in-python/)
+
 ****
 
 ## PCA
 
 ****
+
+
+****
+
+## Feature Scaling with scikit-learn
+
+- [Feature_scaling](http://benalexkeen.com/feature-scaling-with-scikit-learn/)
+
+
