@@ -93,9 +93,18 @@
 
 [step_by_step_algorithm_python](http://benalexkeen.com/k-means-clustering-in-python/)
 
+
+## Hierarchical Clustering
+
+## DBSCAN
+
+## Gaussian Mixture Model
+
 ****
 
 ## PCA
+
+## Random Projection and ICA
 
 ****
 
