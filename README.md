@@ -93,8 +93,12 @@
 
 [step_by_step_algorithm_python](http://benalexkeen.com/k-means-clustering-in-python/)
 
+[silhouette plots](http://nbviewer.jupyter.org/github/rasbt/python-machine-learning-book/blob/master/code/ch11/ch11.ipynb)
+
 
 ## Hierarchical Clustering
+
+[Hierarchical Agglomerative Clustering - Complete Linkage Clustering](http://nbviewer.jupyter.org/github/rasbt/pattern_classification/blob/master/clustering/hierarchical/clust_complete_linkage.ipynb)
 
 ## DBSCAN
 
