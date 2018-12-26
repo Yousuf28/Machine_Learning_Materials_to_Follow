@@ -98,7 +98,20 @@
 
 ## Hierarchical Clustering
 
+[StatQuest: Hierarchical Clustering-youtube](https://www.youtube.com/watch?v=7xHsRkOdVwo)
+
+[Quick_overview](https://www.saedsayad.com/clustering_hierarchical.htm)
+
+[More_theory](https://newonlinecourses.science.psu.edu/stat555/node/86/)
+[Distance Matrix ](https://www.displayr.com/what-is-a-distance-matrix/)
+
 [Hierarchical Agglomerative Clustering - Complete Linkage Clustering](http://nbviewer.jupyter.org/github/rasbt/pattern_classification/blob/master/clustering/hierarchical/clust_complete_linkage.ipynb)
+
+[Dendrogram](https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/)
+
+[Hierarchical Clustering with Python and Scikit-Learn](https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/)
+
+[algorithm_python](https://github.com/ZwEin27/Hierarchical-Clustering/blob/master/hclust.py)
 
 ## DBSCAN
 
