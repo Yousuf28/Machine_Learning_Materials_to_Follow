@@ -103,6 +103,7 @@
 [Quick_overview](https://www.saedsayad.com/clustering_hierarchical.htm)
 
 [More_theory](https://newonlinecourses.science.psu.edu/stat555/node/86/)
+
 [Distance Matrix ](https://www.displayr.com/what-is-a-distance-matrix/)
 
 [Hierarchical Agglomerative Clustering - Complete Linkage Clustering](http://nbviewer.jupyter.org/github/rasbt/pattern_classification/blob/master/clustering/hierarchical/clust_complete_linkage.ipynb)
@@ -114,6 +115,16 @@
 [algorithm_python](https://github.com/ZwEin27/Hierarchical-Clustering/blob/master/hclust.py)
 
 ## DBSCAN
+
+[Visualizing DBSCAN Clustering](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
+
+[scikit-learn_implementation](https://blog.dominodatalab.com/topology-and-density-based-clustering/)
+
+[scikit-learn_implementation_medium](https://towardsdatascience.com/dbscan-clustering-for-data-shapes-k-means-cant-handle-well-in-python-6be89af4e6ea)
+
+[algorithm_python](https://github.com/TummanapallyAnuraag/EE769_project/blob/master/DBSCAN.py)
+
+[algorithm_python_another](https://github.com/choffstein/dbscan/blob/master/dbscan/dbscan.py)
 
 ## Gaussian Mixture Model
 
