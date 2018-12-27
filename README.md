@@ -109,6 +109,10 @@
 
 [Distance Matrix ](https://www.displayr.com/what-is-a-distance-matrix/)
 
+[more_on_distance_matrix](https://www.datanovia.com/en/lessons/clustering-distance-measures/)
+
+[more_on_distance_matrix](https://stats.stackexchange.com/questions/165194/using-correlation-as-distance-metric-for-hierarchical-clustering)
+
 [Hierarchical Agglomerative Clustering - Complete Linkage Clustering](http://nbviewer.jupyter.org/github/rasbt/pattern_classification/blob/master/clustering/hierarchical/clust_complete_linkage.ipynb)
 
 [Dendrogram](https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/)
