@@ -75,6 +75,8 @@
 
 ## LDA
 
+[StatQuest: Linear Discriminant Analysis (LDA) clearly explained_youtube](https://www.youtube.com/watch?v=azXCzI57Yfc)
+
 ****
 
 ## Cluster
@@ -193,4 +195,13 @@
 
 - [Feature_scaling](http://benalexkeen.com/feature-scaling-with-scikit-learn/)
 
+## Maximum likelihood
+
+[StatQuest: Probability vs Likelihood_youtube](https://www.youtube.com/watch?v=pYxNSUDSFH4)
+
+[StatQuest: Maximum Likelihood, clearly explained!!!](https://www.youtube.com/watch?v=XepXtl9YKwc&frags=pl%2Cwn)
+
+[Bayesian inference for parameter estimation](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
+
+[Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 
