@@ -119,6 +119,8 @@
 
 [Dendrogram](https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/)
 
+[dendrogram-with-heat-map](https://python-graph-gallery.com/404-dendrogram-with-heat-map/)
+
 [Hierarchical Clustering with Python and Scikit-Learn](https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/)
 
 [algorithm_python](https://github.com/ZwEin27/Hierarchical-Clustering/blob/master/hclust.py)
