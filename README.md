@@ -205,3 +205,16 @@
 
 [Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 
+## Markov Chain Monte Carlo Methods
+
+[A Zero-Math Introduction to Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
+
+[What is Monte Carlo?_youtube](https://www.youtube.com/watch?v=AyBNnkYrSWY)
+
+[Markov Chains_Explained Visually](http://setosa.io/ev/markov-chains/)
+
+[Markov Chains](https://brilliant.org/wiki/markov-chains/)
+
+
+
+
