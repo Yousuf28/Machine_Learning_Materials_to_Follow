@@ -95,6 +95,7 @@
 
 [silhouette plots](http://nbviewer.jupyter.org/github/rasbt/python-machine-learning-book/blob/master/code/ch11/ch11.ipynb)
 
+[In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
 
 ## Hierarchical Clustering
 
@@ -127,6 +128,16 @@
 [algorithm_python_another](https://github.com/choffstein/dbscan/blob/master/dbscan/dbscan.py)
 
 ## Gaussian Mixture Model
+
+[Expectation Maximization: how it works_youtube](https://www.youtube.com/watch?v=iQoXFmbXRJA&index=2&list=PLBJL0wUvhBHOalOTPHXthFLEKXdO9J2ho)
+
+[In Depth: Gaussian Mixture Models](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
+
+
+[Gaussian Mixture Model_algorithm_python](http://ethen8181.github.io/machine-learning/clustering/GMM/GMM.html)
+
+
+[Kaggle_example](https://www.kaggle.com/kmader/gaussian-mixture-lung-segmentation)
 
 ****
 
