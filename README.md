@@ -149,6 +149,39 @@
 
 ## PCA
 
+[StatQuest: Principal Component Analysis (PCA), Step-by-Step_youtube](https://www.youtube.com/watch?v=FgakZw6K1QQ)
+
+[A tutorial on Principal Components Analysis_Lindsay_Smith](http://www.iro.umontreal.ca/~pift6080/H09/documents/papers/pca_tutorial.pdf)
+
+[How to Calculate the Principal Component Analysis from Scratch in Python](https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/)
+
+[Eigenvectors and eigenvalues_3Blue1Brown](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
+[Convariance and Correlation](http://ci.columbia.edu/ci/premba_test/c0331/s7/s7_5.html)
+
+[A Gentle Introduction to Expected Value, Variance, and Covariance with NumPy](https://machinelearningmastery.com/introduction-to-expected-value-variance-and-covariance/)
+
+[The Covariance Matrix_youtube](https://www.youtube.com/watch?v=locZabK4Als&t=728s&frags=pl%2Cwn)
+
+
+
+
+
+[Interpretation_minitab](https://support.minitab.com/en-us/minitab/18/help-and-how-to/modeling-statistics/multivariate/how-to/principal-components/interpret-the-results/all-statistics-and-graphs/)
+
+[Interpretation_STAT_505](https://newonlinecourses.science.psu.edu/stat505/node/54/)
+
+[The Fundamental Difference Between Principal Component Analysis and Factor Analysis](https://www.theanalysisfactor.com/the-fundamental-difference-between-principal-component-analysis-and-factor-analysis/)
+
+[Practical Guide to Principal Component Analysis (PCA) in R & Python](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)
+
+[Data Science with Python & R: Dimensionality Reduction and Clustering](https://www.codementor.io/jadianes/data-science-python-pandas-r-dimensionality-reduction-du1081aka)
+
+[Principal Component Analysis in R](https://www.datacamp.com/community/tutorials/pca-analysis-r)
+
+[Principal Component Methods in R: Practical Guide](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/118-principal-component-analysis-in-r-prcomp-vs-princomp/)
+
+
 ## Random Projection and ICA
 
 ****
