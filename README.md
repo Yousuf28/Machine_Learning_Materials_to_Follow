@@ -2,9 +2,7 @@
 
 # Machine_Learning_Materials
 
-- Python Data Science Handbook
-
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+- Python Data Science Handbook-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
 -  python-machine-learning-book
 
