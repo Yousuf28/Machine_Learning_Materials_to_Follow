@@ -2,46 +2,40 @@
 
 # Machine_Learning_Materials
 
-- Python Data Science Handbook-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-
--  python-machine-learning-book
-
-[python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
-
-- Data Science From Scratch book's code
-
-[Data Science From Scratch](https://github.com/joelgrus/data-science-from-scratch)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
 
 
-- machine learning algorithms tutorials (mainly in Python3)
-
-[Machine_Learning](https://github.com/ethen8181/machine-learning#clustering)
-
-- Andrew Ng's "Machine Learning" class on Coursera in python and other courses
-
-[link](https://github.com/jdwittenauer/ipython-notebooks)
-
-- machine_learning_basics
-
-[machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics)
-
-- Lazy Programmer
-
-[Machine_Learning_Example_by_Lazy_Programmer](https://github.com/lazyprogrammer/machine_learning_examples)
+- [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
 
 
-- machine-learning-specialization_Washington_University
 
-[machine-learning-specialization](https://github.com/learnml/machine-learning-specialization)
+- [Data Science From Scratch_code](https://github.com/joelgrus/data-science-from-scratch)
 
--  python-machine-learning-book
 
-[python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
 
-- Learn Data Science
+- [machine learning algorithms tutorials (mainly in Python3)](https://github.com/ethen8181/machine-learning#clustering)
 
-[Learn Data Science](http://learnds.com)
+- [Andrew Ng's "Machine Learning" class on Coursera in python and other courses](https://github.com/jdwittenauer/ipython-notebooks)
+
+
+
+- [machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics)
+
+
+
+- [Machine_Learning_Example_by_Lazy_Programmer](https://github.com/lazyprogrammer/machine_learning_examples)
+
+
+
+
+- [machine-learning-specialization_Washington_University](https://github.com/learnml/machine-learning-specialization)
+
+
+
+
+
+- [Learn Data Science](http://learnds.com)
 
 
 ## Linear Reagression
