@@ -177,6 +177,11 @@
 
 [The Fundamental Difference Between Principal Component Analysis and Factor Analysis](https://www.theanalysisfactor.com/the-fundamental-difference-between-principal-component-analysis-and-factor-analysis/)
 
+[In Depth: Principal Component Analysis](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html)
+
+[biplot in python](https://stackoverflow.com/questions/39216897/plot-pca-loadings-and-loading-in-biplot-in-sklearn-like-rs-autoplot)
+
+
 [Practical Guide to Principal Component Analysis (PCA) in R & Python](https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/)
 
 [Data Science with Python & R: Dimensionality Reduction and Clustering](https://www.codementor.io/jadianes/data-science-python-pandas-r-dimensionality-reduction-du1081aka)
@@ -185,7 +190,6 @@
 
 [Principal Component Methods in R: Practical Guide](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/118-principal-component-analysis-in-r-prcomp-vs-princomp/)
 
-[biplot in python](https://stackoverflow.com/questions/39216897/plot-pca-loadings-and-loading-in-biplot-in-sklearn-like-rs-autoplot)
 
 
 ## Random Projection and ICA
