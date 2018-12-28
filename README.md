@@ -1,9 +1,19 @@
 [view](https://yousuf28.github.io/Machine_Learning_Materials_to_Follow/)
 
 # Machine_Learning_Materials
+
+- Python Data Science Handbook
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+
+-  python-machine-learning-book
+
+[python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
+
 - Data Science From Scratch book's code
 
 [Data Science From Scratch](https://github.com/joelgrus/data-science-from-scratch)
+
 
 
 - machine learning algorithms tutorials (mainly in Python3)
