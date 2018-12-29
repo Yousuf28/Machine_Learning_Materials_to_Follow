@@ -38,6 +38,12 @@
 - [Learn Data Science](http://learnds.com)
 
 
+****
+
+- [StatQuest_Joshua Starmer_video](https://statquest.org/video-index/)
+
+*****
+
 ## Linear Reagression
 
 
