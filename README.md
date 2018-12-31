@@ -206,6 +206,8 @@
 
 [PCA vs Factor Analysis](https://www.theanalysisfactor.com/the-fundamental-difference-between-principal-component-analysis-and-factor-analysis/)
 
+[Visualizing Multidimensional Data in Python_PCA_LDA](https://www.apnorton.com/blog/2016/12/19/Visualizing-Multidimensional-Data-in-Python/)
+
 ******
 
 
@@ -213,6 +215,8 @@
 ## LDA
 
 [StatQuest: Linear Discriminant Analysis (LDA) clearly explained_youtube](https://www.youtube.com/watch?v=azXCzI57Yfc)
+
+[LDA_stat_505](https://newonlinecourses.science.psu.edu/stat505/node/94/)
 
 [LDA_sebastianraschka](https://sebastianraschka.com/Articles/2014_python_lda.html)
 
@@ -225,6 +229,8 @@
 
 [PCA vs Factor Analysis](https://www.theanalysisfactor.com/the-fundamental-difference-between-principal-component-analysis-and-factor-analysis/)
 
+[Factor Analysis_stat_505](https://newonlinecourses.science.psu.edu/stat505/node/74/)
+
 ****
 
 ## Multi-dimensional Scaling
@@ -232,6 +238,10 @@
 [StatQuest: MDS and PCoA](https://www.youtube.com/watch?v=GEn-_dAyYME&feature=youtu.be)
 
 [StatQuest: MDS and PCoA in R](https://www.youtube.com/watch?v=pGAUHhLYp5Q&feature=youtu.be)
+
+[In-Depth: Manifold Learning](https://jakevdp.github.io/PythonDataScienceHandbook/05.10-manifold-learning.html)
+
+
 
 ****
 
