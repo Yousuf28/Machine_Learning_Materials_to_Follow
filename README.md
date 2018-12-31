@@ -208,6 +208,8 @@
 
 [Visualizing Multidimensional Data in Python_PCA_LDA](https://www.apnorton.com/blog/2016/12/19/Visualizing-Multidimensional-Data-in-Python/)
 
+[PCA, MDS, k-means, Hierarchical clustering and heatmap for microarray data](https://rpubs.com/crazyhottommy/PCA_MDS)
+
 ******
 
 
