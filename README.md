@@ -206,6 +206,10 @@
 
 [PCA vs Factor Analysis](https://www.theanalysisfactor.com/the-fundamental-difference-between-principal-component-analysis-and-factor-analysis/)
 
+[PCA vs MDS_quora](https://www.quora.com/Whats-the-difference-between-MDS-and-PCA)
+
+[PCA vs MDS_stackexchange](https://stats.stackexchange.com/questions/14002/whats-the-difference-between-principal-component-analysis-and-multidimensional)
+
 [Visualizing Multidimensional Data in Python_PCA_LDA](https://www.apnorton.com/blog/2016/12/19/Visualizing-Multidimensional-Data-in-Python/)
 
 [PCA, MDS, k-means, Hierarchical clustering and heatmap for microarray data](https://rpubs.com/crazyhottommy/PCA_MDS)
