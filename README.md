@@ -80,11 +80,6 @@
 
 ******
 
-
-## LDA
-
-[StatQuest: Linear Discriminant Analysis (LDA) clearly explained_youtube](https://www.youtube.com/watch?v=azXCzI57Yfc)
-
 ****
 
 ## Cluster
@@ -196,9 +191,20 @@
 
 [Principal Component Analysis in R](https://www.datacamp.com/community/tutorials/pca-analysis-r)
 
+
 [Principal Component Methods in R: Practical Guide](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/118-principal-component-analysis-in-r-prcomp-vs-princomp/)
 
 ***
+
+
+
+
+## LDA
+
+[StatQuest: Linear Discriminant Analysis (LDA) clearly explained_youtube](https://www.youtube.com/watch?v=azXCzI57Yfc)
+
+***
+
 
 ## Factor Analysis
 
