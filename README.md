@@ -200,6 +200,13 @@
 
 ***
 
+****
+
+[LDA vs PCA_quora](https://www.quora.com/What-is-the-difference-between-LDA-and-PCA-for-dimension-reduction)
+
+[PCA vs Factor Analysis](https://www.theanalysisfactor.com/the-fundamental-difference-between-principal-component-analysis-and-factor-analysis/)
+
+******
 
 
 
@@ -207,24 +214,45 @@
 
 [StatQuest: Linear Discriminant Analysis (LDA) clearly explained_youtube](https://www.youtube.com/watch?v=azXCzI57Yfc)
 
+[LDA_sebastianraschka](https://sebastianraschka.com/Articles/2014_python_lda.html)
+
+[Implementing LDA in Python with Scikit-Learn](https://stackabuse.com/implementing-lda-in-python-with-scikit-learn/)
+
 ***
 
 
 ## Factor Analysis
 
+[PCA vs Factor Analysis](https://www.theanalysisfactor.com/the-fundamental-difference-between-principal-component-analysis-and-factor-analysis/)
+
 ****
 
 ## Multi-dimensional Scaling
 
+[StatQuest: MDS and PCoA](https://www.youtube.com/watch?v=GEn-_dAyYME&feature=youtu.be)
+
+[StatQuest: MDS and PCoA in R](https://www.youtube.com/watch?v=pGAUHhLYp5Q&feature=youtu.be)
+
 ****
 
 ## t-SNE
+
+[StatQuest: t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM&feature=youtu.be)
+
+[Introduction to t-SNE_datacamp](https://www.datacamp.com/community/tutorials/introduction-t-sne)
+
+[Visualising high-dimensional datasets using PCA and t-SNE in Python](https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 
 ****
 
 ## Random Projection and ICA
 
 ****
+
+
+
+
+
 
 
 ****
