@@ -200,6 +200,7 @@
 
 ***
 
+PCA vs LDA vs MDS vs FA
 ****
 
 [LDA vs PCA_quora](https://www.quora.com/What-is-the-difference-between-LDA-and-PCA-for-dimension-reduction)
