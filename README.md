@@ -298,6 +298,17 @@
 
 [Markov Chains](https://brilliant.org/wiki/markov-chains/)
 
+## Machine Learning Mastery 
+
+[Machine Learning Mastery ](https://machinelearningmastery.com/start-here/)
+
+[What is the Difference Between a Batch and an Epoch in a Neural Network?](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
+
+[A Gentle Introduction to Mini-Batch Gradient Descent and How to Configure Batch Size](https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/)
+
+[What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/)
+
+
 
 
 
