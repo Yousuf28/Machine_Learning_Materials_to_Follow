@@ -313,6 +313,7 @@
 
 [jupyter-notebook-tips-tricks-shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
+[jupyter-notebook-enhancements-tips-and-tricks](https://forums.fast.ai/t/jupyter-notebook-enhancements-tips-and-tricks/17064)
 
 
 
