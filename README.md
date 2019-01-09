@@ -309,6 +309,10 @@
 [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/)
 
 
+## Jupyter Notebook
+
+[jupyter-notebook-tips-tricks-shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+
 
 
 
