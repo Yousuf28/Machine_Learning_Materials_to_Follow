@@ -54,8 +54,34 @@
 
 *****
 
-## Logistic Regression
 
+
+
+
+****
+
+## Metrics for Classification problems in Machine Learning
+
+[Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?reload=9&v=Kdsp6soqA7o&feature=youtu.be)
+
+[Machine Learning Fundamentals: Sensitivity and Specificity](https://www.youtube.com/watch?v=sunUKFXMHGk&feature=youtu.be)
+
+[ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=xugjARegisk&feature=youtu.be)
+
+[Understanding Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
+
+[Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+
+[Beyond Accuracy: Precision and Recall](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
+
+[Performance Metrics for Classification problems in Machine Learning](https://medium.com/greyatom/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
+
+[Metrics To Evaluate Machine Learning Algorithms in Python](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/)
+
+
+*****
+
+## Logistic Regression
 
 *******
 
