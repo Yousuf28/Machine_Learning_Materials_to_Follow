@@ -50,6 +50,10 @@
 
 ## Linear Reagression
 
+[Machine Learning Tutorial Python - 4: Gradient Descent and Cost Function](https://www.youtube.com/watch?v=vsWrXfO3wWw&index=4&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&frags=pl%2Cwn)
+
+[code from above video](https://github.com/codebasics/py/blob/master/ML/3_gradient_descent/gradient_descent.py)
+
 
 
 *****
