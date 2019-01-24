@@ -50,6 +50,21 @@
 
 ## Linear Reagression
 
+[Simple Linear Regression_STAT-501_](https://newonlinecourses.science.psu.edu/stat501/node/250/)
+
+[What is the "Best Fitting Line"?](https://newonlinecourses.science.psu.edu/stat501/node/252/)
+
+[Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
+
+[Modeling and Prediction for Movies Data in R](http://rpubs.com/Yousuf/435852)
+
+[Linear Regression in Python_Susan Li_with regression_Random forest_ Boosting](https://towardsdatascience.com/linear-regression-in-python-predict-the-bay-areas-home-price-5c91c8378878)
+
+[Linear Regression in Python_Susan Li_simple](https://towardsdatascience.com/how-business-friendly-is-your-country-linear-regression-in-python-c22ff0fcebdd)
+
+
+[A Friendly Introduction to Linear Regression_Luis Serrano](https://www.youtube.com/watch?v=wYPUhge9w5c&t=214s&frags=pl%2Cwn)
+
 [Machine Learning Tutorial Python - 4: Gradient Descent and Cost Function](https://www.youtube.com/watch?v=vsWrXfO3wWw&index=4&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&frags=pl%2Cwn)
 
 [code from above video](https://github.com/codebasics/py/blob/master/ML/3_gradient_descent/gradient_descent.py)
@@ -87,6 +102,25 @@
 
 ## Logistic Regression
 
+[Logistic Regression_StatQuest](https://www.youtube.com/watch?v=yIYKR4sgzI8&index=5&t=0s&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&frags=pl%2Cwn)
+
+[A Friendly Introduction to Logistic Regression and the Perceptron Algorithm_Luis Serrano](https://www.youtube.com/watch?v=jbluHIgBmBo&frags=pl%2Cwn)
+
+
+[LOGIT REGRESSION | R DATA ANALYSIS EXAMPLES](https://stats.idre.ucla.edu/r/dae/logit-regression/)
+
+[Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html)
+
+[Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
+
+[Logistic Regression_STAT_501](https://newonlinecourses.science.psu.edu/stat501/node/374/)
+
+[FAQ: HOW DO I INTERPRET ODDS RATIOS IN LOGISTIC REGRESSION?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
+
+
+
+
+
 *******
 
 
@@ -95,8 +129,14 @@
 
 *****
 
+********
 
-## Support Vector MAchine
+### Naive Bayes
+
+*******
+
+
+## Support Vector Machine
 
 *****
 
