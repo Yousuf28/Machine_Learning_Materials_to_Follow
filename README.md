@@ -50,7 +50,7 @@
 
 ## Linear Reagression
 
-[Simple Linear Regression_STAT-501_](https://newonlinecourses.science.psu.edu/stat501/node/250/)
+[Simple Linear Regression_STAT-501](https://newonlinecourses.science.psu.edu/stat501/node/250/)
 
 [What is the "Best Fitting Line"?](https://newonlinecourses.science.psu.edu/stat501/node/252/)
 
@@ -62,6 +62,7 @@
 
 [Linear Regression in Python_Susan Li_simple](https://towardsdatascience.com/how-business-friendly-is-your-country-linear-regression-in-python-c22ff0fcebdd)
 
+[In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html)
 
 [A Friendly Introduction to Linear Regression_Luis Serrano](https://www.youtube.com/watch?v=wYPUhge9w5c&t=214s&frags=pl%2Cwn)
 
@@ -69,7 +70,29 @@
 
 [code from above video](https://github.com/codebasics/py/blob/master/ML/3_gradient_descent/gradient_descent.py)
 
+#### Regularization
 
+[Ridge Regression_L2](https://www.youtube.com/watch?v=Q81RR3yKn30&feature=youtu.be)
+
+[Lasso Regression](https://www.youtube.com/watch?v=NGf0voTMlcs&feature=youtu.be)
+
+[Elastic Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo&feature=youtu.be)
+
+[Ridge, Lasso and Elastic-Net Regression in R](https://www.youtube.com/watch?v=ctmNq7FgbvI&feature=youtu.be)
+
+[Regularization of Linear Models with SKLearn](https://medium.com/coinmonks/regularization-of-linear-models-with-sklearn-f88633a93a2)
+
+[A Complete Tutorial on Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
+
+#### Polynomial Regression
+
+[Polynomial Regression_STAT_501](https://newonlinecourses.science.psu.edu/stat501/node/324/)
+
+[Polynomial Regression_python](https://towardsdatascience.com/polynomial-regression-bbe8b9d97491)
+
+[Understand Power of Polynomials with Polynomial Regression](https://acadgild.com/blog/polynomial-regression-understand-power-of-polynomials)
+
+[Python | Implementation of Polynomial Regression](https://www.geeksforgeeks.org/python-implementation-of-polynomial-regression/)
 
 *****
 
@@ -109,13 +132,21 @@
 
 [LOGIT REGRESSION | R DATA ANALYSIS EXAMPLES](https://stats.idre.ucla.edu/r/dae/logit-regression/)
 
+[FAQ: HOW DO I INTERPRET ODDS RATIOS IN LOGISTIC REGRESSION?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
+
+[Logistic Regression_STAT_501](https://newonlinecourses.science.psu.edu/stat501/node/374/)
+
 [Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html)
 
 [Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
 
-[Logistic Regression_STAT_501](https://newonlinecourses.science.psu.edu/stat501/node/374/)
 
-[FAQ: HOW DO I INTERPRET ODDS RATIOS IN LOGISTIC REGRESSION?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
+[Logistic Regression - Analysis](https://nbviewer.jupyter.org/github/nborwankar/LearnDataScience/blob/master/notebooks/B3.%20Logistic%20Regression%20-%20Analysis.ipynb)
+
+
+
+
+
 
 
 
