@@ -2,6 +2,10 @@
 
 # Machine_Learning_Materials
 
+- [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#deep)
+
+- [Machine Learning Resources_ritchie ng](https://www.ritchieng.com)
+
 - [pandas API](http://pandas.pydata.org/pandas-docs/stable/api.html)
 
 - [scikit-learn API](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.decomposition)
@@ -74,7 +78,7 @@
 
 [Ridge Regression_L2](https://www.youtube.com/watch?v=Q81RR3yKn30&feature=youtu.be)
 
-[Lasso Regression](https://www.youtube.com/watch?v=NGf0voTMlcs&feature=youtu.be)
+[Lasso Regression_L1](https://www.youtube.com/watch?v=NGf0voTMlcs&feature=youtu.be)
 
 [Elastic Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo&feature=youtu.be)
 
@@ -366,6 +370,19 @@
 ## Random Projection and ICA
 
 ****
+
+
+****
+
+## Deep Learning
+
+[The Complete Guide on Learning Deep Learning](https://towardsdatascience.com/the-complete-guide-on-learning-deep-learning-72cabb30d721)
+
+[Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#deep)
+
+[Machine Learning Resources_ritchie ng](https://www.ritchieng.com)
+
+[Deep Learning Wizard](https://www.deeplearningwizard.com)
 
 
 
