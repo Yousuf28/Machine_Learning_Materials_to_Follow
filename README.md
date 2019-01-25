@@ -377,6 +377,18 @@
 
 ## Deep Learning
 
+
+### perceptron algorithm
+
+[Intro to Truth Tables & Boolean Algebra](https://medium.com/i-math/intro-to-truth-tables-boolean-algebra-73b331dd9b94)
+
+
+
+
+*****
+
+### resources
+
 [The Complete Guide on Learning Deep Learning](https://towardsdatascience.com/the-complete-guide-on-learning-deep-learning-72cabb30d721)
 
 [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#deep)
@@ -384,10 +396,10 @@
 [Machine Learning Resources_ritchie ng](https://www.ritchieng.com)
 
 [Deep Learning Wizard](https://www.deeplearningwizard.com)
+*****
 
 
-
-
+******
 
 
 
