@@ -133,6 +133,7 @@
 
 [A Friendly Introduction to Logistic Regression and the Perceptron Algorithm_Luis Serrano](https://www.youtube.com/watch?v=jbluHIgBmBo&frags=pl%2Cwn)
 
+[Building a Logistic Regression in Python](https://towardsdatascience.com/building-a-logistic-regression-in-python-301d27367c24)
 
 [LOGIT REGRESSION | R DATA ANALYSIS EXAMPLES](https://stats.idre.ucla.edu/r/dae/logit-regression/)
 
