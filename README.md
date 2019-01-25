@@ -150,24 +150,18 @@
 
 
 
+*************
 
-
-
-
-
+## Decision Tree and Random Forest
 
 
 *******
-
-
-## KNN
-
 
 *****
 
 ********
 
-### Naive Bayes
+## Naive Bayes
 
 *******
 
@@ -177,7 +171,7 @@
 *****
 
 
-## Decision Tree and Random Forest
+## KNN
 
 
 
@@ -187,8 +181,9 @@
 ## Ensemble Learning
 
 
-
 ******
+
+
 
 ****
 
