@@ -154,8 +154,36 @@
 
 ## Decision Tree and Random Forest
 
+[StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)
+
+[StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&frags=pl%2Cwn)
+
+[StatQuest: Random Forests in R](https://www.youtube.com/watch?v=6EXPYzbfLCE&frags=pl%2Cwn)
+
+[Decision Tree_entropy_calculation by hand_Saedsayad.com](https://www.saedsayad.com/decision_tree.htm)
+
+[Decision Tree from the Scratch_python](https://medium.com/@rakendd/decision-tree-from-scratch-9e23bcfb4928)
+
+[Analysis of Various Decision Tree Algorithms for Classification in Data Mining_paper_pdf](https://pdfs.semanticscholar.org/fd39/e1fa85e5b3fd2b0d000230f6f8bc9dc694ae.pdf)
+
+[How To Implement The Decision Tree Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
+
+[What is a Decision Tree? How does it work?](https://clearpredictions.com/Home/DecisionTree)
+
+[A Complete Tutorial on Tree Based Modeling from Scratch (in R & Python)](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+
+#### random forest
+
+[An Implementation and Explanation of the Random Forest in Python](https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76)
+
 
 *******
+
+
+## Ensemble Learning
+
+[A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
+
 
 *****
 
@@ -177,8 +205,6 @@
 
 *****
 
-
-## Ensemble Learning
 
 
 ******
