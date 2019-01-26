@@ -180,9 +180,6 @@
 *******
 
 
-## Ensemble Learning
-
-[A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
 
 
 *****
@@ -190,6 +187,16 @@
 ********
 
 ## Naive Bayes
+
+[Naive_bayes_calculation_by_hand_saedsayad.com](https://www.saedsayad.com/naive_bayesian.htm)
+
+[How To Implement Naive Bayes From Scratch in Python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+
+[Naive_bayes_python_edureka](https://www.edureka.co/blog/naive-bayes-tutorial/)
+
+
+
+
 
 *******
 
@@ -206,6 +213,9 @@
 *****
 
 
+## Ensemble Learning
+
+[A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
 
 ******
 
