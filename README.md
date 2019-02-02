@@ -217,6 +217,9 @@
 
 [A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
 
+[A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+
+[Machine Learning: Classification_by University of Washington](https://www.coursera.org/learn/ml-classification/lecture/um0cX/example-of-adaboost-in-action)
 ******
 
 
