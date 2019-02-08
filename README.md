@@ -135,7 +135,7 @@
 
 [Building a Logistic Regression in Python](https://towardsdatascience.com/building-a-logistic-regression-in-python-301d27367c24)
 
-[LOGIT REGRESSION | R DATA ANALYSIS EXAMPLES](https://stats.idre.ucla.edu/r/dae/logit-regression/)
+[LOGIT REGRESSION R DATA ANALYSIS EXAMPLES](https://stats.idre.ucla.edu/r/dae/logit-regression/)
 
 [FAQ: HOW DO I INTERPRET ODDS RATIOS IN LOGISTIC REGRESSION?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
 
@@ -192,9 +192,16 @@
 
 [How To Implement Naive Bayes From Scratch in Python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 
+[Better Naive Bayes: 12 Tips To Get The Most From The Naive Bayes Algorithm](https://machinelearningmastery.com/better-naive-bayes/)
+
 [Naive_bayes_python_edureka](https://www.edureka.co/blog/naive-bayes-tutorial/)
 
+[6 Easy Steps to Learn Naive Bayes Algorithm (with codes in Python and R)](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 
+
+[Naive Bayes & SVM Spam Filtering_kaggle](https://www.kaggle.com/pablovargas/naive-bayes-svm-spam-filtering)
+
+[scikit-learn](https://scikit-learn.org/stable/modules/naive_bayes.html#gaussian-naive-bayes)
 
 
 
@@ -203,6 +210,16 @@
 
 ## Support Vector Machine
 
+[Support Vector Machines (SVMs): A friendly introduction_Luis Serrano](https://www.youtube.com/watch?v=Lpr__X8zuE8&t=1043s&frags=pl%2Cwn)
+
+[Support Vector Machine - Classification (SVM)_saedsayad.com](https://www.saedsayad.com/support_vector_machine.htm)
+
+
+[SVM from Scratch in Python](https://medium.com/deep-math-machine-learning-ai/chapter-3-1-svm-from-scratch-in-python-86f93f853dc)
+
+[Support Vector Machine detail analysis_kaggle](https://www.kaggle.com/nirajvermafcb/support-vector-machine-detail-analysis)
+
+[SVM with Scikit-Learn (SVM with parameter tuning_kaggle](https://www.kaggle.com/udaysa/svm-with-scikit-learn-svm-with-parameter-tuning)
 *****
 
 
@@ -217,9 +234,16 @@
 
 [A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
 
+[Machine Learning: Classification_by University of Washington_Adaboost](https://www.coursera.org/learn/ml-classification/lecture/um0cX/example-of-adaboost-in-action)
+
 [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 
-[Machine Learning: Classification_by University of Washington](https://www.coursera.org/learn/ml-classification/lecture/um0cX/example-of-adaboost-in-action)
+[A Step by Step Gradient Boosting Example for Classification](https://sefiks.com/2018/10/29/a-step-by-step-gradient-boosting-example-for-classification/)
+
+[A Step by Step Gradient Boosting Decision Tree Example](https://sefiks.com/2018/10/04/a-step-by-step-gradient-boosting-decision-tree-example/)
+
+
+
 ******
 
 
