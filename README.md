@@ -2,6 +2,8 @@
 
 # Machine_Learning_Materials
 
+- [Andrew Ng_coursera_machine Learning](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
 - [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#deep)
 
 - [Machine Learning Resources_ritchie ng](https://www.ritchieng.com)
@@ -49,6 +51,7 @@
 ****
 
 - [StatQuest_Joshua Starmer_video](https://statquest.org/video-index/)
+
 
 *****
 
@@ -445,7 +448,15 @@
 
 *****
 
-### resources
+### Resources
+
+[Deep learning_Andrew Ng_coursera_youtube-link](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)
+
+[Practical Deep Learning for Coders_fast.ai](https://course.fast.ai)
+
+[Machine Learning & Deep Learning Fundamentals_deeplizard](http://deeplizard.com/learn/video/gZmobeGL0Yg)
+
+[PyTorch_deeplizard](http://deeplizard.com/learn/video/v5cngxo4mIg)
 
 [The Complete Guide on Learning Deep Learning](https://towardsdatascience.com/the-complete-guide-on-learning-deep-learning-72cabb30d721)
 
@@ -454,6 +465,9 @@
 [Machine Learning Resources_ritchie ng](https://www.ritchieng.com)
 
 [Deep Learning Wizard](https://www.deeplearningwizard.com)
+
+[Deep learning_3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
 *****
 
 
