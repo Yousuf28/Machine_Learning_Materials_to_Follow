@@ -138,9 +138,9 @@
 
 [Building a Logistic Regression in Python](https://towardsdatascience.com/building-a-logistic-regression-in-python-301d27367c24)
 
-[LOGIT REGRESSION R DATA ANALYSIS EXAMPLES](https://stats.idre.ucla.edu/r/dae/logit-regression/)
+[logit regression r data analysis examples](https://stats.idre.ucla.edu/r/dae/logit-regression/)
 
-[FAQ: HOW DO I INTERPRET ODDS RATIOS IN LOGISTIC REGRESSION?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
+[faq: how do i interpret odds ratios in logistic regression?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
 
 [Logistic Regression_STAT_501](https://newonlinecourses.science.psu.edu/stat501/node/374/)
 
@@ -228,6 +228,15 @@
 
 ## KNN
 
+[K Nearest Neighbors - Regression_saedsayad](https://www.saedsayad.com/k_nearest_neighbors_reg.htm)
+
+[K Nearest Neighbors - Classification_saedsayad](https://www.saedsayad.com/k_nearest_neighbors.htm)
+
+[StatQuest: K-nearest neighbors, Clearly Explained](https://www.youtube.com/watch?v=HVXime0nQeI)
+
+[A Practical Introduction to K-Nearest Neighbors Algorithm for Regression (with Python code)](https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/)
+
+[K-nearest neighbors algorithm with code from scratch](https://medium.com/deep-math-machine-learning-ai/chapter-5-k-nearest-neighbors-algorithm-with-code-from-scratch-7f93f653c860)
 
 
 *****
