@@ -52,6 +52,8 @@
 
 - [StatQuest_Joshua Starmer_video](https://statquest.org/video-index/)
 
+- [Luis Serrano_youtube](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
+
 
 *****
 
@@ -99,7 +101,7 @@
 
 [Understand Power of Polynomials with Polynomial Regression](https://acadgild.com/blog/polynomial-regression-understand-power-of-polynomials)
 
-[Python | Implementation of Polynomial Regression](https://www.geeksforgeeks.org/python-implementation-of-polynomial-regression/)
+[Python  Implementation of Polynomial Regression](https://www.geeksforgeeks.org/python-implementation-of-polynomial-regression/)
 
 *****
 
@@ -338,6 +340,8 @@
 
 [StatQuest: Principal Component Analysis (PCA), Step-by-Step_youtube](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 
+[Principal Component Analysis (PCA)_Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg&frags=pl%2Cwn)
+
 [A tutorial on Principal Components Analysis_Lindsay_Smith](http://www.iro.umontreal.ca/~pift6080/H09/documents/papers/pca_tutorial.pdf)
 
 [How to Calculate the Principal Component Analysis from Scratch in Python](https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/)
@@ -526,6 +530,10 @@
 [jupyter-notebook-tips-tricks-shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 [jupyter-notebook-enhancements-tips-and-tricks](https://forums.fast.ai/t/jupyter-notebook-enhancements-tips-and-tricks/17064)
+
+## Python
+
+[Corey Schafer_youtube](https://www.youtube.com/user/schafer5/playlists)
 
 
 
