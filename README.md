@@ -225,6 +225,8 @@
 [Support Vector Machine detail analysis_kaggle](https://www.kaggle.com/nirajvermafcb/support-vector-machine-detail-analysis)
 
 [SVM with Scikit-Learn (SVM with parameter tuning_kaggle](https://www.kaggle.com/udaysa/svm-with-scikit-learn-svm-with-parameter-tuning)
+
+
 *****
 
 
