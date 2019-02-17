@@ -340,6 +340,11 @@
 
 ## PCA
 
+[my_exercise_from Udacity_github](https://github.com/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/02_DeepLearnning/Course_material/01_intro_neural_network/02_perceptron_from_supervised_chapter/perceptron.ipynb)
+
+[my_exercise_from Udacity_nbviewer](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/02_DeepLearnning/Course_material/01_intro_neural_network/02_perceptron_from_supervised_chapter/perceptron.ipynb)
+
+
 [StatQuest: Principal Component Analysis (PCA), Step-by-Step_youtube](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 
 [Principal Component Analysis (PCA)_Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg&frags=pl%2Cwn)
@@ -383,6 +388,7 @@
 ***
 
 ## PCA vs LDA vs MDS vs FA
+
 ****
 
 [LDA vs PCA_quora](https://www.quora.com/What-is-the-difference-between-LDA-and-PCA-for-dimension-reduction)
