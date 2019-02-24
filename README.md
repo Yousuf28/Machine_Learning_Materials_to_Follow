@@ -459,6 +459,15 @@
 
 ## Deep Learning
 
+### Courses
+
+[Luis Serrano_Deep_learning_youtube](https://www.youtube.com/watch?v=BR9h47Jtqyw&list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO)
+
+[Coursera_Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
+[fast_ai_course](https://www.fast.ai)
+
+[Deep_learning_Stanford_University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 ### perceptron algorithm
 
