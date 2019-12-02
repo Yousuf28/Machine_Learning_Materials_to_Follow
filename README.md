@@ -467,6 +467,8 @@
 
 - [Feature_scaling](http://benalexkeen.com/feature-scaling-with-scikit-learn/)
 
+- [K Fold Cross Validation](https://machinelearningmastery.com/k-fold-cross-validation/)
+
 ## Maximum likelihood
 
 [StatQuest: Probability vs Likelihood_youtube](https://www.youtube.com/watch?v=pYxNSUDSFH4)
