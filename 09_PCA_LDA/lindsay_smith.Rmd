@@ -1,0 +1,198 @@
+---
+title: "lindsaysmith"
+author: "Yousuf Ali"
+date: "11/25/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[link_cross validated](https://stats.stackexchange.com/questions/90331/step-by-step-implementation-of-pca-in-r-using-lindsay-smiths-tutorial)
+
+```{r}
+d = data.frame(gpa=c(2.5,0.5,2.2,1.9,3.1,2.3,2.0,1.0,1.5,1.1), 
+               salary=c(2.4,0.7,2.9,2.2,3.0,2.7,1.6,1.1,1.6,0.9))
+
+
+
+```
+
+
+```{r}
+d
+```
+
+```{r}
+mean(d$gpa)
+```
+```{r}
+mean(d$salary)
+```
+
+
+```{r}
+# mean adjusted value
+
+d$gpa_adjusted = d$gpa - mean(d$gpa)
+d$salary_adjusted = d$salary -mean(d$salary)
+```
+
+
+```{r}
+d
+```
+
+
+```{r}
+# covariance matrix
+
+cov_matrix <- cov(d[,1:2])
+cov_matrix
+
+
+```
+
+```{r}
+var(d$gpa)
+```
+
+```{r}
+# variance
+var(d$salary)
+```
+
+```{r}
+# covariance
+cov(d$gpa, d$salary)
+```
+
+```{r}
+# eigenvector
+
+
+eigenvec <- eigen(cov_matrix)
+
+eigenvec
+
+```
+```{r}
+eigenvec$vectors[, 1]
+```
+
+```{r}
+eigenvec$vectors[, 2]
+```
+
+
+```{r}
+cov_matrix %*% eigenvec$vectors
+```
+
+```{r}
+1.2840277 *eigenvec$vectors[, 1]
+```
+
+
+```{r}
+0.0490834 * eigenvec$vectors[, 2]
+```
+
+
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+# compute PCs
+p = prcomp(d,center=TRUE,retx=TRUE)
+```
+
+```{r}
+# use loadings and scores to reproduce with only first PC
+loadings = t(p$rotation[,1])
+scores = p$x[,1]
+
+reproduce = scores %*% loadings  + colMeans(d)
+```
+
+
+```{r}
+summary(p)
+```
+```{r}
+p$rotation
+```
+
+```{r}
+p$center
+```
+
+```{r}
+p$scale
+```
+
+
+```{r}
+
+```
+
+```{r}
+
+# plot
+plot(reproduce,pch=3,ylim=c(-1,4),xlim=c(-1,4))
+abline(h=0,v=0,lty=3)
+mtext("Original data restored using only a single eigenvector",side=3,cex=0.7)
+
+biplot(p)
+```
+
+```{r}
+pca <- prcomp(d, scale. = TRUE, center = TRUE)
+```
+
+```{r}
+summary(pca)
+```
+
+```{r}
+pca$x
+```
+
+```{r}
+pca$sdev
+```
+
+```{r}
+pca$rotation
+```
+
+```{r}
+pca$center
+```
+
+```{r}
+pca$scale
+```
+
+```{r}
+biplot(pca)
+```
+

@@ -1,0 +1,1 @@
+"0","biplot(df_fa2, labels=df$Wine, main=""Biplot from fa"", group = df$Wine)"

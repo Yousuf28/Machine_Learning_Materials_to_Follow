@@ -1,0 +1,2 @@
+"0","# histogram"
+"0","p <-  predict(df_lda, df[2:14])"

@@ -1,0 +1,1 @@
+"0","pca_place <- prcomp(df_place[,2:9], scale. = TRUE)"

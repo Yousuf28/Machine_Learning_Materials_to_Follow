@@ -1,0 +1,237 @@
+---
+title: "pca"
+author: "Yousuf Ali"
+date: "10/14/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## PCA
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+```
+
+```{r message=FALSE, warning=FALSE, paged.print=TRUE}
+df <- read_csv('wine.csv')
+```
+
+```{r}
+head(df)
+```
+
+
+```{r}
+str(df)
+```
+
+```{r}
+df$Wine <- as.factor(df$Wine)
+```
+
+
+```{r}
+df_pca <- prcomp(df[, c(2:14) ], center = TRUE, scale. = TRUE)
+
+```
+
+```{r message=FALSE, warning=FALSE}
+library(ggbiplot)
+
+```
+
+```{r}
+ggbiplot(df_pca)
+
+```
+
+```{r}
+ggbiplot(df_pca, labels=rownames(df))
+```
+
+```{r}
+ggbiplot(df_pca, labels=df$Wine)
+```
+
+```{r}
+ggbiplot(df_pca,ellipse=TRUE, 
+
+         labels=rownames(df), groups=df$Wine)
+```
+
+
+
+```{r}
+ggbiplot(df_pca,ellipse=TRUE, 
+
+         labels=df$Wine, groups=df$Wine)
+```
+
+```{r}
+summary(df_pca)
+```
+
+```{r}
+head(df_pca$x)
+```
+
+```{r}
+df_pca$rotation
+```
+
+```{r}
+df_pca$center
+```
+
+```{r}
+df_pca$scale
+```
+
+## FACTOR ANALYSIS
+
+
+
+```{r message=FALSE, warning=FALSE}
+library(psych)
+```
+
+
+
+
+```{r}
+df_fa2 <- fa(df[,2:14],2,scores=TRUE)
+biplot(df_fa2,labels=rownames(df))
+```
+
+```{r}
+biplot(df_fa2, labels=df$Wine, main="Biplot from fa", group = df$Wine)
+```
+
+
+```{r}
+df_fa3 <- fa(df[,2:14],3,scores=TRUE)
+biplot(df_fa3,labels=df$Wine)
+```
+
+```{r}
+summary(df_fa2)
+```
+
+
+```{r}
+library(MASS)
+```
+
+
+```{r}
+df_lda <- lda(Wine ~ .,  df)
+```
+
+```{r}
+df_lda
+```
+
+```{r}
+attributes(df_lda)
+```
+
+```{r}
+# histogram
+
+p <-  predict(df_lda, df[2:14])
+```
+
+```{r}
+ldahist(data = p$x[,1], g = df$Wine)
+```
+
+```{r}
+library(ggord)
+```
+
+
+
+```{r}
+ggord(df_lda, df$Wine)
+```
+
+```{r}
+df_lda$lev
+
+```
+
+```{r}
+p1 <- predict(df_lda, df[, 2:14])$class
+tab <- table(Predicted = p1, Actual = df$Wine)
+```
+
+```{r}
+tab
+```
+
+## hierarchical cluster
+
+```{r}
+df2 <- scale(df[,2:4])
+```
+
+```{r}
+d <- dist(df2, method = "euclidean")
+hc1 <- hclust(d, method = "complete" )
+
+```
+
+```{r}
+plot(hc1, cex = 0.6, hang = -1)
+```
+
+```{r}
+hc5 <- hclust(d, method = "ward.D2" )
+
+# Cut tree into 4 groups
+sub_grp <- cutree(hc5, k = 4)
+
+```
+
+### K means cluster
+
+[link](https://uc-r.github.io/kmeans_clustering)
+
+```{r}
+k2 <- kmeans(df[,2:14], centers = 3, nstart = 25)
+str(k2)
+```
+
+```{r message=FALSE, warning=FALSE}
+library(factoextra)
+```
+
+```{r}
+fviz_cluster(k2, data = df[,2:14])
+```
+
+## heatmap
+
+```{r}
+df3 <- scale(df[,2:14])
+```
+
+```{r}
+heatmap(df3)
+```
+
+```{r}
+library(e1071)
+```
+
+```{r}
+
+svmfit = svm(Wine ~ ., data = df, kernel = "linear", cost = 10, scale = FALSE)
+print(svmfit)
+```
+
+
+

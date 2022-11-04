@@ -1,0 +1,14 @@
+"0","df <- read_csv(""loanapplicant.csv"")
+"
+"2","Parsed with column specification:
+cols(
+  Income = col_integer(),
+  Education = col_integer(),
+  Age = col_integer(),
+  Residence = col_integer(),
+  Employ = col_integer(),
+  Savings = col_integer(),
+  Debt = col_integer(),
+  `Credit cards` = col_integer()
+)
+"
