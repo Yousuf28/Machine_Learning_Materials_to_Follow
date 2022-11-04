@@ -1,0 +1,1 @@
+"0","df_lda <- lda(Wine ~ .,  df)"

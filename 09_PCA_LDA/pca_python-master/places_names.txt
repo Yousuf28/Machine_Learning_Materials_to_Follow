@@ -1,0 +1,80 @@
+'Abilene,TX', 'Akron,OH', 'Albany,GA', 'Albany-Schenectady-Troy,NY',\
+'Albuquerque,NM', 'Alexandria,LA', 'Allentown,Bethlehem,PA-NJ', '\
+'Alton,Granite-City,IL', 'Altoona,PA', 'Amarillo,TX', 'Anaheim-Santa-Ana,CA', '\
+'Anchorage,AK', 'Anderson,IN', 'Anderson,SC', 'Ann-Arbor,MI', 'Anniston,AL', '\
+'Appleton-Oshkosh-Neenah,WI', 'Asheville,NC', 'Athens,GA', 'Atlanta,GA', '\
+'Atlantic-City,NJ', 'Augusta,GA-SC', 'Aurora-Elgin,IL', 'Austin,TX', '\
+'Bakersfield,CA', 'Baltimore,MD', 'Bangor,ME', 'Baton-Rouge,LA', 'Battle-Creek,MI', '\
+'Beaumont-Port-Arthur,TX', 'Beaver-County,PA', 'Bellingham,WA', 'Benton-Harbor,MI', '\
+'Bergen-Passaic,NJ', 'Billings,MT', 'Biloxi-Gulfport,MS', 'Binghampton,NY', 'Birmingham,AL', '\
+'Bismarck,ND', 'Bloomington,IN', 'Bloomington-Normal,IL', 'Boise-City,ID', 'Boston,MA', '\
+'Boulder-Longmont,CO', 'Bradenton,FL', 'Brazoria,TX', 'Bremerton,WA', '\
+'Bridgeport-Milford,CT', 'Bristol,CT', 'Brockton,MA', 'Brownsville-Harlington,TX', '\
+'Bryan-College-Station,TX', 'Buffalo,NY', 'Burlington,NC', 'Burlington,VT', 'Canton,OH', '\
+'Casper,WY', 'Cedar-Rapids,IA', 'Champaign-Urbana-Rantoul,IL', 'Charleston,SC', '\
+'Charleston,WV', 'Charlotte-Gastonia-Rock-Hill,NC-SC', 'Charlottesville,VA', '\
+'Chattanooga,TN-GA', 'Chicago,IL', 'Chico,CA', 'Cincinnati,OH-KY-IN', '\
+'Clarksville-Hopkinsville,TN-KY', 'Cleveland,OH', 'Colorado-Springs,CO', '\
+'Columbia,MO', 'Columbia,SC', 'Columbus,GA-AL', 'Columbus,OH', 'Corpus-Christi,TX', '\
+'Cumberland,MD-WV', 'Dallas,TX', 'Danbury,CT', 'Danville,VA', '\
+'Davenport-Rock-Island-Moline,IA-IL', 'Dayton-Springfield,OH', '\
+'Daytona-Beach,FL', 'Decatur,IL', 'Denver,CO', 'Des-Moines,IA', 'Detroit,MI', '\
+'Dothgan,AL', 'Dubuque,IA', 'Duluth,MN-WI', 'East-St.-Louis-Belleville,IL', '\
+'Eau-Claire,WI', 'El-Paso,TX', 'Elkhart-Goshen,IN', 'Elmira,NY', 'Enid,OK', 'Erie,PA', '\
+'Eugene-Springfield,OR', 'Evansville,IN-KY', 'Fall-River,MA-RI', 'Fargo-Moorhead,ND-MN', '\
+'Fayetteville,NC', 'Fayettteville-Sprindale,AR', 'Fitchburg-Leominster,MA', 'Flint,MI', '\
+'Florence,AL', 'Florence,SC', 'Fort-Collins-Lover=land,CO', '\
+'Fort-Lauderdale-Hollywood-Pompano-Beach,FL', 'Fort-Myers,FL', 'Fort-Pierce,FL', '\
+'Fort-Smith,AR-OK', 'Fort-Walton-Beach,FL', 'Fort-Wayne,IN', 'Forth-Arlington,TX', '\
+'Fresno,CA', 'Gadsden,AL', 'Gainesville,FL', 'Galveston-Texas-City,TX', 'Gary-Hammond,IN', '\
+'Glens-Falls,NY', 'Grand-Forks,ND', 'Grand-Rapids,MI', 'Great-Falls,MT', 'Greeley,CO', '\
+'Green-Bay,WI', 'Greensboro-Winston-Salem-High-Point,NC', 'Greenville-Spartanburg,SC', '\
+'Hagerstown,MD', 'Hamilton-Middletown,OH', 'Harrisburg-Lebanon-Carlisle,PA', '\
+'Hartford,CT', 'Hickory,NC', 'Honolulu,HI', 'Houma-Thibodaux,LA', 'Houston,TX', '\
+'Huntington-Ashland,WV-KY-OH', 'Huntsville,AL', 'Indianapolis,IN', 'Iowa-City,IA', '\
+'Jackson,MI', 'Jackson,MS', 'Jacksonville,FL', 'Jacksonville,NC', 'Janesville-Beloit,WI', '\
+'Jersey-City,NJ', 'Johnson-City-Kingsport-Bristol,TN-VA', 'Johnstown,PA', 'Joliet,IL', '\
+'Joplin,MO', 'Kalamazoo,MI', 'Kankakee,IL', 'Kansas-City,KS', 'Kansas-City,MO', '\
+'Kenosha,WI', 'Kileen-Temple,TX', 'Knoxville,TN', 'Kokomo,IN', 'La-Crosse,WI', '\
+'Lafayette,IN', 'Lafayette,LA', 'Lake-Charles,LA', 'Lake-County,IL', '\
+'Lakeland-Winter-Haven,FL', 'Lancaster,PA', 'Lansing-East-Lansing,MI', '\
+'Laredo,TX', 'Las-Cruces,NM', 'Las-Vegas,NV', 'Lawrence,KS', '\
+'Lawrence-Haverhill,MA-NH', 'Lawton,OK', 'Lewiston-Auburn,ME', '\
+'Lexington-Fayette,KY', 'Lima,OH', 'Lincoln,NE', 'Little-Rock,North-Little-Rock,AR', '\
+'Longview-Marshall,TX', 'Lorain-Elyria,OH', 'Los-Angeles,Long-Beach,CA', '\
+'Louisville,KY-IN', 'Lowell,MA-NH', 'Lubbock,TX', 'Lynchburg,VA', '\
+'Macon,Warner-Robbins,GA', 'Madison,WI', 'Manchester,NH', 'Mansfield,OH', '\
+'McAllen-Edinburg-Mission,TX', 'Medford,OR', 'Melbourne-Titusville-Palm-Bay,FL', '\
+'Memphis,TN-AR-MS', 'Miami-Hialeah,FL', 'Middlesex-Somerset,Hunterdon,NJ', '\
+'Middletown,CT', 'Midland,TX', 'Milwaukee,WI', 'Minneapolis-St.-Paul,MN-WI', '\
+'Mobile,AL', 'Modesto,CA', 'Monmouth-Ocean,NJ', 'Monroe,LA', 'Montgomery,AL', '\
+'Muncie,IN', 'Muskegon,MI', 'Nashua,NH', 'Nashville,TN', 'Nassua-Suffolk,NY', '\
+'New-Bedsford,MA', 'New-Britain,CT', 'New-Haven-Meriden,CT', '\
+'New-London-Norwich,CT-RI', 'New-Orleans,LA', 'New-York,NY', '\
+'Newark,NJ', 'Niagara-Falls,NY', 'Norfolk-Virginia-Beach-Newport-News,VA', '\
+'Norwalk,CT', 'Oakland,CA', 'Ocala,FL', 'Odessa,TX', 'Oklahoma-City,OK', 'Olympia,WA', '\
+'Omaha,NE-IA', 'Orange-County,NY', 'Orlando,FL', 'Owensboro,KY', 'Oxnard-Ventura,CA', '\
+'Panama-City,FL', 'Parkerburg-Marietta,WV-OH', 'Pascagoula,MS', '\
+'Pawtucket-Woonsocket-Attleboro,RI-MA', 'Pensacola,FL', 'Peoria,IL', '\
+'Philadelphia,PA-NJ', 'Phoenix,AZ', 'Pine-Bluff,AR', 'Pittsburgh,PA', '\
+'Pittsfield,MA', 'Portland,ME', 'Portland,OR', 'Portsmouth-Dover-Rochester,NH-ME', '\
+'Poughkeepsie,NY', 'Providence,RI', 'Provo-Orem,UT', 'Pueblo,CO', 'Racine,WI', '\
+'Raleigh-Durham,NC', 'Reading,PA', 'Redding,CA', 'Reno,NV', 'Richland-Kinnewick-Pasco,WA', '\
+'Richmond-Petersburg,VA', 'Riverside-San-Bernardino,CA', 'Roanoke,VA', 'Rochester,MN', '\
+'Rochester,NY', 'Rockford,IL', 'Sacramento,CA', 'Saginaw-Bay-City-Midland,MI', '\
+'St.-Cloud,MN', 'St.-Joseph,MO', 'St.-Louis,MO-IL', 'Salem,OR', 'Salem-Glouster,MA', '\
+'Salinas-Seaside-Monterey,CA', 'Salt-Lake-City-Ogden,UT', 'San-Angelo,TX', '\
+'San-Antonio,TX', 'San-Diego,CA', 'San-Francisco,CA', 'San-Jose,CA', '\
+'Santa-Barbara-Santa-Maria-Lompoc,CA', 'Santa-Cruz,CA', 'Santa-Rosa-Petaluma,CA', '\
+'Sarasota,FL', 'Savannah,GA', 'Scranton-Wilkes-Barre,PA', 'Seattle,WA', 'Sharon,PA', '\
+'Sheboygan,WI', 'Sherman-Denison,TX', 'Shreveport,LA', 'Sioux-City,IA-NE', 'Sioux-Falls,SD', '\
+'South-Bend-Mishawaka,IN', 'Spokane,WA', 'Springfield,IL', 'Springfield,MA', 'Springfield,MO', '\
+'Stamford,CT', 'State-College,PA', 'Steubenville-Weirton,OH-WV', 'Stockton,CA', 'Syracuse,NY', '\
+'Tacoma,WA', 'Tallahassee,FL', 'Tampa-St.-Petersburg-Clearwater,FL', 'Terre-Haute,IN', '\
+'Texarkana,TX-Texarkana,AR', 'Toledo,OH', 'Topeka,KS', 'Trenton,NJ', 'Tuscon,AZ', 'Tulsa,OK', '\
+'Tuscaloosa,AL', 'Tyler,TX', 'Utica-Rome,NY', 'Vallejo-Fairfield-Napa,CA', 'Vancouver,WA', '\
+'Victoria,TX', 'Vineland-Millville-Bridgeton,NJ', 'Visalia-Tulare-Porterville,CA', '\
+'Waco,TX', 'Washington,DC-MD-VA', 'Materbury,CT', 'Waterloo-Cedar-Falls,IA', 'Wausau,WI', '\
+'West-Palm-Beach-Boca-Raton-Delray-Beach,FL', 'Wheeling,WV-OH', 'Wichita,KS', '\
+'Wichita-Falls,TX', 'Williamsport,PA', 'Wilmington,DE-NJ-MD', 'Wilmington,NC', '\
+'Worcester,MA', 'Yakima,WA', 'York,PA', 'Youngstown-Warren,OH', 'Yuba-City,CA

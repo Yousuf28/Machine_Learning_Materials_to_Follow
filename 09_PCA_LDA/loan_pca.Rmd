@@ -1,0 +1,95 @@
+---
+title: "from_minitab"
+author: "Yousuf Ali"
+date: "11/25/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE, paged.print=FALSE}
+library(tidyverse)
+```
+
+```{r}
+df <- read_csv("loanapplicant.csv")
+```
+
+```{r}
+head(df)
+```
+
+```{r}
+pca_loan <- prcomp(df, scale. = TRUE, center = TRUE)
+```
+
+```{r}
+summary(pca_loan)
+```
+
+```{r}
+pca_loan$rotation
+```
+
+```{r}
+pca_loan$x
+```
+
+```{r}
+library(ggbiplot)
+
+ggbiplot(pca_loan)
+
+```
+
+
+```{r}
+pca_loan1 <- prcomp(df, scale. = TRUE )
+```
+
+```{r}
+pca_loan1$rotation
+```
+
+
+
+```{r}
+pca_loan2 <-  princomp(df)
+```
+
+```{r}
+pca_loan2$loadings
+```
+
+
+```{r}
+df_place <- read_csv("places.csv")
+```
+
+```{r}
+head(df_place)
+```
+
+```{r}
+df_place = df_place[,1:9]
+```
+
+```{r}
+head(df_place)
+```
+
+```{r}
+
+pca_place <- prcomp(df_place[,2:9], scale. = TRUE)
+```
+
+```{r}
+pca_place$rotation
+```
+
+```{r}
+ggbiplot(pca_place)
+```
+

@@ -1,0 +1,3 @@
+"0","# mean adjusted value"
+"0","d$gpa_adjusted = d$gpa - mean(d$gpa)"
+"0","d$salary_adjusted = d$salary -mean(d$salary)"

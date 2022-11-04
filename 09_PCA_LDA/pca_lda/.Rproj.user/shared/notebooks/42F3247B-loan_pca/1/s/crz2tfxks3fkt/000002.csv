@@ -1,0 +1,21 @@
+"0","df_place <- read_csv(""places.csv"")"
+"2","Missing column names filled in: 'X15' [15]"
+"2","Parsed with column specification:
+cols(
+  Climate = col_character(),
+  HousingCost = col_integer(),
+  HlthCare = col_integer(),
+  Crime = col_integer(),
+  Transp = col_integer(),
+  Educ = col_integer(),
+  Arts = col_integer(),
+  Recreat = col_integer(),
+  Econ = col_integer(),
+  CaseNum = col_integer(),
+  Long = col_integer(),
+  Lat = col_double(),
+  Pop = col_double(),
+  StNum = col_integer(),
+  X15 = col_integer()
+)
+"

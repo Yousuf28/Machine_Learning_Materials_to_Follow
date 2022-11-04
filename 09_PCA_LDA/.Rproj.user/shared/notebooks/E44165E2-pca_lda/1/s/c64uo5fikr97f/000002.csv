@@ -1,0 +1,2 @@
+"0","p1 <- predict(df_lda, df[, 2:14])$class"
+"0","tab <- table(Predicted = p1, Actual = df$Wine)"

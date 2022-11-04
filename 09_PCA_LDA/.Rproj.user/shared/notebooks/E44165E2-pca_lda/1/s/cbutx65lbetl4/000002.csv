@@ -1,0 +1,1 @@
+"0","df_pca <- prcomp(df[, c(2:14) ], center = TRUE, scale. = TRUE)"

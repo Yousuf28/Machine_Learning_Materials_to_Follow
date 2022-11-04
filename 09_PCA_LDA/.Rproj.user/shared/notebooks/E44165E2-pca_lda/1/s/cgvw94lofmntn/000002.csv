@@ -1,0 +1,2 @@
+"0","d <- dist(df2, method = ""euclidean"")"
+"0","hc1 <- hclust(d, method = ""complete"" )"

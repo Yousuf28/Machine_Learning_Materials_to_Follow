@@ -1,0 +1,229 @@
+---
+title: "machine_learning_mastery"
+author: "Yousuf Ali"
+date: "12/8/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+x <- c(1,3,5,2,4,6)
+A <-  matrix(x, nrow = 3, ncol = 2)
+```
+
+```{r}
+A
+```
+
+```{r}
+pca_m <- prcomp(A, scale = TRUE)
+```
+
+```{r}
+summary(pca_m)
+```
+
+```{r}
+pca_m$x
+```
+
+```{r}
+pca_m$rotation
+```
+
+```{r}
+pca_m$center
+```
+
+```{r}
+pca_m$sdev
+```
+
+## PCA_from_scratch-see R file
+```{r}
+
+```
+
+
+```{r}
+aa <- c(1,3,5,5,6,4,4,6,6,7,5,4,8,9,8,4,5,6,7,8)
+AA <- matrix(aa, nrow = 5, ncol = 4)
+AA
+```
+
+```{r}
+colnames(AA) <- c("locatn", "age", "neibor", "area")
+AA
+
+
+```
+
+```{r}
+rownames(AA) <- c("ob_01", "ob_02", "ob_03", "ob_04", "ob_05")
+```
+
+```{r}
+AA
+```
+
+```{r}
+pca_ge <- prcomp(AA)
+```
+
+```{r}
+summary(pca_ge)
+```
+
+```{r}
+pca_ge$rotation
+```
+
+```{r}
+pca_ge$x
+```
+
+```{r}
+loading_score <- pca_ge$rotation[,1]
+```
+
+
+```{r}
+abs(loading_score)
+```
+
+
+```{r}
+plot(pca_ge$x[,1], pca_ge$x[,2])
+```
+
+
+```{r}
+library(ggbiplot)
+ggbiplot(pca_ge)
+
+
+
+```
+
+```{r}
+ggbiplot(pca_ge, labels=rownames(AA))
+```
+
+
+
+
+```{r}
+# location variance
+locatn <- c(1,3,5,5,6)
+var(locatn)
+```
+```{r}
+# correlation
+cor(locatn, locatn)
+```
+
+
+
+```{r}
+# diagonal variance, off diagonal covariance
+covar <- cov(AA)
+covar
+```
+
+```{r}
+eigen(covar)
+```
+
+```{r}
+vec_val <- eigen(covar)
+```
+
+```{r}
+vec_val$vectors %*% covar
+```
+```{r}
+c <- colMeans(AA)
+
+c
+```
+
+```{r}
+m <- c(4,5.4,6.8,6)
+
+```
+
+
+```{r}
+center_colmeans <- function(x) {
+    xcenter = colMeans(x)
+    x - rep(xcenter, rep.int(nrow(x), ncol(x)))
+}
+```
+
+
+```{r}
+normalize <- function(x){
+    return ((x-mean(x))/sd(x))
+}
+
+```
+
+```{r}
+normalize(m)
+```
+
+
+```{r}
+center_colmeans(AA)
+```
+
+```{r}
+c <- center_colmeans(AA)
+```
+
+
+
+
+
+```{r}
+svd(covar)
+```
+
+```{r}
+vec <- vec_val$vectors
+```
+
+```{r}
+vec
+```
+```{r}
+c
+```
+
+
+```{r}
+t(c)
+```
+
+
+```{r}
+obs <- t(vec) %*% t(c)
+
+```
+
+```{r}
+t(obs)
+```
+
+
+```{r}
+pca_ge$x
+```
+
+```{r}
+pca_ge$rotation
+```
+

@@ -1,0 +1,84 @@
+---
+title: "josh_to_datacamp"
+author: "Yousuf Ali"
+date: "11/25/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+data.matrix <- matrix(nrow=30, ncol=10)
+colnames(data.matrix) <- c(
+    paste("wt", 1:5, sep=""),
+    paste("ko", 1:5, sep=""))
+rownames(data.matrix) <- paste("gene", 1:30, sep="")
+for (i in 1:30) {
+    wt.values <- rpois(5, lambda=sample(x=10:1000, size=1))
+    ko.values <- rpois(5, lambda=sample(x=10:1000, size=1))
+    
+    data.matrix[i,] <- c(wt.values, ko.values)
+}
+
+
+
+
+```
+
+```{r}
+tdata <- t(data.matrix)
+(tdata)
+
+
+```
+
+```{r}
+gene.pca<- prcomp(tdata, center = TRUE, scale. = TRUE)
+
+
+```
+
+```{r}
+summary(gene.pca)
+```
+
+```{r}
+
+gene.pca$sdev
+```
+
+```{r}
+gene.pca$rotation
+```
+
+```{r}
+gene.pca$center
+```
+
+```{r}
+gene.pca$scale
+```
+
+```{r}
+gene.pca$x
+```
+
+
+```{r fig.height=8, fig.width=8}
+library(ggbiplot)
+
+ggbiplot(gene.pca)
+
+ggbiplot(gene.pca, labels=rownames(tdata))
+
+
+gene.type <- c(rep("wt", 5), rep("ko",5))
+
+ggbiplot(gene.pca,ellipse=TRUE, 
+         
+         labels=rownames(tdata), groups=gene.type)
+
+```
+

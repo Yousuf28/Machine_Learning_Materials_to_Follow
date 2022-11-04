@@ -1,0 +1,2 @@
+"0","ggbiplot(df_pca,ellipse=TRUE, "
+"0","         labels=df$Wine, groups=df$Wine)"

@@ -1,0 +1,9 @@
+"0","df_fa2 <- fa(df[,2:14],2,scores=TRUE)"
+"2","Loading required namespace: GPArotation
+"
+"2","Failed with error:  "
+"2","‘there is no package called ‘GPArotation’’"
+"2","
+"
+"2","I am sorry, to do these rotations requires the GPArotation package to be installed"
+"0","biplot(df_fa2,labels=rownames(df))"
