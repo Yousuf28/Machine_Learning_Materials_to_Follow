@@ -142,14 +142,13 @@
 
 [logit regression r data analysis examples](https://stats.idre.ucla.edu/r/dae/logit-regression/)
 
-[faq: how do i interpret odds ratios in logistic regression?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
+[faq: how do i interpret odds ratios in logistic regression?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)    
 
-[Logistic Regression_STAT_501](https://newonlinecourses.science.psu.edu/stat501/node/374/)
+[Logistic Regression_STAT_501](https://online.stat.psu.edu/stat501/lesson/15/15.1)      
 
-[Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html)
+[Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html) 
 
 [Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
-
 
 [Logistic Regression - Analysis](https://nbviewer.jupyter.org/github/nborwankar/LearnDataScience/blob/master/notebooks/B3.%20Logistic%20Regression%20-%20Analysis.ipynb)
 
