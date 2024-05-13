@@ -79,6 +79,8 @@
 
 [code from above video](https://github.com/codebasics/py/blob/master/ML/3_gradient_descent/gradient_descent.py)
 
+[linear regression with interaction](https://www.nicolaromano.net/data-thoughts/linear-regression-r-part-2)
+
 #### Regularization
 
 [Ridge Regression_L2](https://www.youtube.com/watch?v=Q81RR3yKn30&feature=youtu.be)
